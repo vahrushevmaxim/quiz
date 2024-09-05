@@ -1,8 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
 
     class Quiz {
-        constructor(app, arrayQuestions, arrayAnswers) {
-            if (!app || arrayQuestions) return
+        constructor(app, arrayQuestions, arrayAnswers) { 
             this.app = document.querySelector(app);//Корневой dom элемент
             this.arrayQuestions = arrayQuestions;//Массив вопросов
             this.arrayAnswers = arrayAnswers;//Массив ответов
