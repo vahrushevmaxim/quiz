@@ -1,0 +1,407 @@
+/* montserrat-100 - cyrillic_latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 100;
+	src: url('fonts/Montserrat/montserrat-v26-cyrillic_latin-100.woff2') format('woff2'),
+		/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+		url('fonts/Montserrat/montserrat-v26-cyrillic_latin-100.ttf') format('truetype');
+	/* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* montserrat-200 - cyrillic_latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 200;
+	src: url('fonts/Montserrat/montserrat-v26-cyrillic_latin-200.woff2') format('woff2'),
+		/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+		url('fonts/Montserrat/montserrat-v26-cyrillic_latin-200.ttf') format('truetype');
+	/* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* montserrat-300 - cyrillic_latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/Montserrat/montserrat-v26-cyrillic_latin-300.woff2') format('woff2'),
+		/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+		url('fonts/Montserrat/montserrat-v26-cyrillic_latin-300.ttf') format('truetype');
+	/* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* montserrat-regular - cyrillic_latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	src: url('fonts/Montserrat/montserrat-v26-cyrillic_latin-regular.woff2') format('woff2'),
+		/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+		url('fonts/Montserrat/montserrat-v26-cyrillic_latin-regular.ttf') format('truetype');
+	/* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* montserrat-500 - cyrillic_latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	src: url('fonts/Montserrat/montserrat-v26-cyrillic_latin-500.woff2') format('woff2'),
+		/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+		url('fonts/Montserrat/montserrat-v26-cyrillic_latin-500.ttf') format('truetype');
+	/* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* montserrat-600 - cyrillic_latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	src: url('fonts/Montserrat/montserrat-v26-cyrillic_latin-600.woff2') format('woff2'),
+		/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+		url('fonts/Montserrat/montserrat-v26-cyrillic_latin-600.ttf') format('truetype');
+	/* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* montserrat-700 - cyrillic_latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	src: url('fonts/Montserrat/montserrat-v26-cyrillic_latin-700.woff2') format('woff2'),
+		/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+		url('fonts/Montserrat/montserrat-v26-cyrillic_latin-700.ttf') format('truetype');
+	/* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* montserrat-800 - cyrillic_latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 800;
+	src: url('fonts/Montserrat/montserrat-v26-cyrillic_latin-800.woff2') format('woff2'),
+		/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+		url('fonts/Montserrat/montserrat-v26-cyrillic_latin-800.ttf') format('truetype');
+	/* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* montserrat-900 - cyrillic_latin */
+@font-face {
+	font-display: swap;
+	/* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 900;
+	src: url('fonts/Montserrat/montserrat-v26-cyrillic_latin-900.woff2') format('woff2'),
+		/* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+		url('fonts/Montserrat/montserrat-v26-cyrillic_latin-900.ttf') format('truetype');
+	/* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+html {
+	font-family: sans-serif;
+	line-height: 1.15;
+}
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+audio,
+canvas,
+embed,
+iframe,
+img,
+object,
+svg,
+video {
+	display: block;
+	vertical-align: middle;
+}
+
+p {
+	margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+}
+
+button {
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+	border: none;
+	background-color: transparent;
+}
+
+main {
+	display: block;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+input {
+	border: none;
+	padding: 0;
+	background-color: inherit;
+	margin: 0;
+}
+
+input[type='search']::-webkit-search-decoration,
+input[type='search']::-webkit-search-cancel-button,
+input[type='search']::-webkit-search-results-button,
+input[type='search']::-webkit-search-results-decoration {
+	display: none;
+}
+
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+}
+
+ul,
+ol {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	color: #000000;
+	font-family: "Montserrat", sans-serif, Helvetica;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
+	background-color: #FFFFFF;
+	overflow-x: hidden;
+}
+
+.container {
+	max-width: 906px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+.title-big {
+	font-weight: 800;
+	font-size: 48px;
+	color: #000;
+}
+
+.title-middle {
+	font-weight: 700;
+	font-size: 24px;
+	color: #000;
+}
+
+.title-small {
+	font-weight: 700;
+	font-size: 20px;
+	color: #000;
+}
+
+.card-item {
+	padding: 40px;
+	border-radius: 20px;
+}
+
+.card-item__title {
+	margin-bottom: 15px;
+}
+
+.card-item__text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 140%;
+	color: #000;
+}
+
+.card-item--correct {
+	background-color: #e5f5e1;
+}
+
+.card-item--error {
+	background-color: #ffe0e0;
+}
+
+.form-main__list-items {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.form-main__row {
+	display: flex;
+	gap: 20px;
+	position: relative;
+	cursor: pointer;
+}
+
+.form-main__input {
+	position: absolute;
+	top: 0;
+	left: 0;
+	appearance: none;
+	cursor: pointer;
+	width: 20px;
+	height: 20px;
+}
+
+.form-main__input-custom {
+	flex-shrink: 0;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background-color: transparent;
+	display: block;
+	border: 1px solid #000;
+	transition: background-color .3s ease-in-out,
+		border .3s ease-in-out;
+}
+
+.form-main__text {
+	font-weight: 400;
+	font-size: 16px;
+	color: #000;
+}
+
+.form-main__input:checked~.form-main__input-custom {
+	background-color: #30f;
+	border: 1px solid #30f;
+}
+
+.progress-bar {
+	width: 100%;
+	border-radius: 100px;
+	background-color: #f7f7f7;
+	height: 12px;
+	position: relative;
+}
+
+.progress-bar__number {
+	font-weight: 700;
+	font-size: 16px;
+	color: #000;
+	position: absolute;
+	top: -24px;
+}
+
+.progress-bar__fill-scale {
+	position: relative;
+	width: 0;
+	background-color: #30f;
+	border-radius: 100px;
+	height: 100%;
+	display: block;
+	transition: width .5s ease-in-out;
+}
+
+.progress-bar__number--left {
+	left: 0;
+}
+
+.progress-bar__number--right {
+	right: 0;
+}
+
+.progress-bar__number--sum {
+	top: auto;
+	bottom: -24px;
+	right: 0;
+}
+
+.button-action {
+	border-radius: 10px;
+	padding: 16px 30px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #30f;
+	opacity: 1;
+	transition: opacity .3s ease-in-out;
+}
+
+.button-action__text {
+	font-weight: 700;
+	font-size: 18px;
+	color: #fff;
+}
+
+.button-action:hover {
+	opacity: 0.5;
+}
+
+.app-quiz__wrapper {
+	padding-top: 75px;
+	padding-bottom: 85px;
+}
+
+.app-quiz__title {
+	margin-bottom: 15px;
+}
+
+.app-quiz__text-result {
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 140%;
+	color: #000;
+}
+
+.app-quiz__text-result--active {
+	margin-bottom: 40px;
+	max-width: 551px;
+}
+
+.app-quiz__content {
+	border-radius: 20px;
+	background-color: #f7f7f7;
+	padding: 33px 40px 40px 41px;
+	margin-bottom: 43px;
+	min-height: 528px;
+}
+
+.app-quiz__subtitle {
+	margin-bottom: 20px;
+}
+
+.app-quiz__cards {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.app-quiz__bot {
+	padding-top: 40px;
+	display: flex;
+	justify-content: center;
+}
